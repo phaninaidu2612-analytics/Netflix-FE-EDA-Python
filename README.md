@@ -15,7 +15,7 @@ Production-ready **Netflix content analysis** using Python, featuring **data cle
 ## Featured Visualizations
 | Top Countries | Content Trends | Genre Heatmap | Duration Analysis |
 |---------------|---------------|---------------|------------------|
-| ![Top Countries](https://github.com/user-attachments/assets/ced85129-3d48-49fa-afc3-37f0f262ad49) | ![Trends](https://github.com/user-attachments/assets/a0155982-a44b-43cf-9d41-40365db63295) | ![Heatmap](https://github.com/user-attachments/assets/285b4627-d0c5-4824-8294-71fb22724b6d) | ![Genre](https://github.com/user-attachments/assets/f50f28e2-e1c3-41e5-87ee-84287493eb7e) |
+| ![Top Countries](https://github.com/user-attachments/assets/a98097d5-1dd6-48d2-95a0-f6ba8230b53f) | ![Trends](https://github.com/user-attachments/assets/6362f7dc-b1a5-45e3-81df-a9b0f913157a) | ![Heatmap](https://github.com/user-attachments/assets/285b4627-d0c5-4824-8294-71fb22724b6d) | ![Genre](https://github.com/user-attachments/assets/f50f28e2-e1c3-41e5-87ee-84287493eb7e) |
 
 | Word Cloud | 
 |------------|
