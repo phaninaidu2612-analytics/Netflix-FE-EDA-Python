@@ -13,13 +13,13 @@ Production-ready **Netflix content analysis** using Python, featuring **data cle
 - **Drama genre supremacy**: #1 across all metrics (volume, duration, ratings)
 
 ## Featured Visualizations
-| Top Countries | Content Trends | Genre Heatmap | Duration Analysis |
+| Top Countries | Content Trends | Genre Heatmap | Rating Distribution|
 |---------------|---------------|---------------|------------------|
-| ![Top Countries](https://github.com/user-attachments/assets/a98097d5-1dd6-48d2-95a0-f6ba8230b53f) | ![Trends](https://github.com/user-attachments/assets/6362f7dc-b1a5-45e3-81df-a9b0f913157a) | ![Heatmap](https://github.com/user-attachments/assets/285b4627-d0c5-4824-8294-71fb22724b6d) | ![Genre](https://github.com/user-attachments/assets/f50f28e2-e1c3-41e5-87ee-84287493eb7e) |
+| ![Top Countries](https://github.com/user-attachments/assets/a98097d5-1dd6-48d2-95a0-f6ba8230b53f) | ![Trends](https://github.com/user-attachments/assets/6362f7dc-b1a5-45e3-81df-a9b0f913157a) | ![Heatmap](https://github.com/user-attachments/assets/29d631d6-92c0-45cb-9fa8-f7dd4824c9d5) | ![Rating](https://github.com/user-attachments/assets/66bf8389-3355-4bea-bbae-c30334f440c8) |
 
 | Word Cloud | 
 |------------|
-| ![Wordcloud](https://github.com/user-attachments/assets/48c52ead-8489-407b-a392-9d323f8507e0)
+| ![Wordcloud](https://github.com/user-attachments/assets/6bf94bfd-4574-443e-8adc-714a5d274c4f)
 
 ## Tech Stack & Skills Demonstrated
 
