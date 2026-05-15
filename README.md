@@ -37,13 +37,6 @@ Business Insights | Executive Reporting | Portfolio Ready
 4. **TV Show expansion**: Movies declining - double down on multi-season series
 5. **Genre innovation**: Dramas saturated - invest in Sci-Fi/Fantasy (high growth potential)
 
-## Quick Start
-```bash
-# Clone & run
-git clone <repo>
-jupyter notebook netflix_analysis.ipynb
-```
-
 **Data Source**: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 **Author**: Phani Naidu | Data Analyst Portfolio
 **Last Updated**: May 2026
