@@ -1,7 +1,7 @@
 # Netflix Data Analysis: Complete EDA Pipeline (Python)
 
 ## Project Overview
-Production-ready **Netflix content analysis** using Python, featuring **data cleaning**, **feature engineering**, **EDA with 12+ business insights**, and **15+ publication-quality visualizations**. Built for Data Analyst portfolio demonstration.
+Production-ready **Netflix content analysis** using Python, featuring **data cleaning**, **feature engineering**, **EDA with business insights**, and ** publication-quality visualizations**. Built for Data Analyst portfolio demonstration.
 
 ![Netflix Dashboard](https://github.com/user-attachments/assets/a189f076-5a11-4bd0-8034-4532aa444da7)
 
